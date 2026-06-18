@@ -2,7 +2,7 @@
   "name": "刷题系统题库中心",
   "description": "do_test_packet - 刷题系统云端题库仓库",
   "version": "1.0.0",
-  "update_time": "2026-06-17",
+  "update_time": "2026-06-18",
   "banks": [
     {
       "id": "bank_001",
@@ -23,6 +23,28 @@
       "download_url": "https://raw.githubusercontent.com/TianSamsara/do_test_packet/main/%E7%88%AC%E8%99%AB.json",
       "size": 37851,
       "question_count": 79,
+      "types": ["single", "essay"],
+      "checksum": ""
+    },
+    {
+      "id": "bank_003",
+      "name": "人工智能导论期末复习题库",
+      "description": "AI基础理论题库，涵盖机器学习、深度学习、计算机视觉、NLP等核心知识点",
+      "version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/TianSamsara/do_test_packet/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.json",
+      "size": 23263,
+      "question_count": 42,
+      "types": ["single", "multiple", "essay"],
+      "checksum": ""
+    },
+    {
+      "id": "bank_004",
+      "name": "计算机组成原理复习题库",
+      "description": "计组核心知识点题库，包括CPU、存储器、总线、I/O系统等",
+      "version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/TianSamsara/do_test_packet/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.json",
+      "size": 14648,
+      "question_count": 34,
       "types": ["single", "essay"],
       "checksum": ""
     }
