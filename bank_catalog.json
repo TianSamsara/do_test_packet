@@ -41,7 +41,7 @@
       "id": "bank_004",
       "name": "计算机组成原理复习题库",
       "description": "计组核心知识点题库，包括CPU、存储器、总线、I/O系统等",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "download_url": "https://raw.githubusercontent.com/TianSamsara/do_test_packet/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.json",
       "size": 14648,
       "question_count": 34,
