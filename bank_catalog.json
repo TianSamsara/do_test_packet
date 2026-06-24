@@ -47,6 +47,17 @@
       "question_count": 34,
       "types": ["single", "essay"],
       "checksum": ""
+    },
+    {
+      "id": "bank_005",
+      "name": "算法与设计复习题库",
+      "description": "算法与数据结构核心题库，涵盖排序、查找、贪心、动态规划、图论等核心知识点",
+      "version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/TianSamsara/do_test_packet/main/%E7%AE%97%E6%B3%95%E4%B8%8E%E8%AE%BE%E8%AE%A1.json",
+      "size": 0,
+      "question_count": 0,
+      "types": ["single", "multiple", "essay", "program"],
+      "checksum": ""
     }
   ]
 }
