@@ -510,7 +510,7 @@
         },
         {
             "index": 40,
-            "type": "judge",
+            "type": "essay",
             "text": "遵守robots协议就代表爬取行为合法。",
             "options": {},
             "answer": "错误",
@@ -518,7 +518,7 @@
         },
         {
             "index": 41,
-            "type": "judge",
+            "type": "essay",
             "text": "HTML经BeautifulSoup解析后的标签树只有标签节点一种节点。",
             "options": {},
             "answer": "错误",
@@ -526,7 +526,7 @@
         },
         {
             "index": 42,
-            "type": "judge",
+            "type": "essay",
             "text": "网络爬虫也被称为网页蜘蛛、网络机器人。",
             "options": {},
             "answer": "正确",
@@ -534,7 +534,7 @@
         },
         {
             "index": 43,
-            "type": "judge",
+            "type": "essay",
             "text": "Scrapy Engine负责管理待爬取URL队列。",
             "options": {},
             "answer": "错误",
@@ -542,7 +542,7 @@
         },
         {
             "index": 44,
-            "type": "judge",
+            "type": "essay",
             "text": "requests.post()中params参数用于传递表单数据。",
             "options": {},
             "answer": "错误",
@@ -550,7 +550,7 @@
         },
         {
             "index": 45,
-            "type": "judge",
+            "type": "essay",
             "text": "正则表达式 .*? 是非贪婪匹配。",
             "options": {},
             "answer": "正确",
@@ -558,7 +558,7 @@
         },
         {
             "index": 46,
-            "type": "judge",
+            "type": "essay",
             "text": "正则解析复杂嵌套HTML比BeautifulSoup更容易维护。",
             "options": {},
             "answer": "错误",
@@ -566,7 +566,7 @@
         },
         {
             "index": 47,
-            "type": "judge",
+            "type": "essay",
             "text": "采集无robots.txt的公开网站可以无限制高频请求。",
             "options": {},
             "answer": "错误",
@@ -574,7 +574,7 @@
         },
         {
             "index": 48,
-            "type": "judge",
+            "type": "essay",
             "text": "Python数据库操作流程：建立连接→获取游标→执行SQL→处理结果→关闭资源。",
             "options": {},
             "answer": "正确",
@@ -582,7 +582,7 @@
         },
         {
             "index": 49,
-            "type": "judge",
+            "type": "essay",
             "text": "Scrapy的response.follow可自动拼接相对URL，简化翻页。",
             "options": {},
             "answer": "正确",
@@ -590,7 +590,7 @@
         },
         {
             "index": 50,
-            "type": "judge",
+            "type": "essay",
             "text": "下载器中间件process_request返回Request对象会终止当前请求。",
             "options": {},
             "answer": "错误",
