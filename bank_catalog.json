@@ -19,7 +19,7 @@
       "id": "bank_002",
       "name": "网络爬虫知识点复习题库",
       "description": "Python爬虫技术题库，覆盖requests、Scrapy、反爬等知识",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "download_url": "https://raw.githubusercontent.com/TianSamsara/do_test_packet/main/%E7%88%AC%E8%99%AB.json",
       "size": 37851,
       "question_count": 79,
